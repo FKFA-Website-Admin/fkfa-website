@@ -3,6 +3,7 @@ title: Mitgliederversammlung
 date: 2026-05-24
 kategorie: Veranstaltungen
 teaser: Einladung zur Mitgliederversammlung am 9. Juni
+bild: images/uploads/309b7505-d7fe-4deb-b4d6-b3d503d9d594.png
 ---
 Wir laden Euch herzlich zur Mitgliederversammlung am 9. Juni um 18:30 Uhr in unser Büro in der Hamburger Straße 131 ein.
 
