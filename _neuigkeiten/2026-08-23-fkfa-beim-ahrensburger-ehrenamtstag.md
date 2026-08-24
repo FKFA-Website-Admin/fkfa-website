@@ -6,6 +6,7 @@ teaser: Am 13. September 2026 ist Ahrensburg im Zeichen des Ehrenamts. Der
   Freundeskreis für Flüchtlinge Ahrensburg e.V. ist mit einem Stand im Peter
   Rantzau Haus dabei – kommen Sie vorbei und erfahren Sie, wie Sie sich
   engagieren können.
+bild: images/uploads/ehrenamt-ahrensburg.jpg
 ---
 Am \*\*13.September 2026\*\* findet in Ahrensburg der \*\*Ehrenamtstag\*\* statt – und wir sinddabei!
 
