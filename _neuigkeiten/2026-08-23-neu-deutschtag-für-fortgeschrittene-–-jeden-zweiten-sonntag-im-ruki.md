@@ -5,7 +5,7 @@ kategorie: Deutschkurse
 teaser: Ab dem 6. September 2026 findet jeden zweiten Sonntag von 11 bis 15 Uhr
   im RuKi ein Deutschtag für fortgeschrittene Sprecherinnen und Sprecher statt.
   Mit wechselnden Methoden, viel Gesprächsraum und kostenlos.
-bild: images/uploads/einladung-sonntagskurs.jpg
+bild: images/uploads/deutschtag.jpg
 ---
 Ab dem 6.September 2026 bietet der Freundeskreis für Flüchtlinge Ahrensburg ein neues Angebot: den Deutschtag für Fortgeschrittene – jeden zweiten Sonntag von 11:00 bis 15:00 Uhr im Büro des Freundeskreises (RuKi, Hamburger Str. 131,Ahrensburg).
 
