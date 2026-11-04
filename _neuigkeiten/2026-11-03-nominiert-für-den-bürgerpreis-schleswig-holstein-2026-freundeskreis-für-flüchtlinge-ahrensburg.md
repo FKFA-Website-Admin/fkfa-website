@@ -1,6 +1,5 @@
 ---
-title: Nominiert für den Bürgerpreis Schleswig Holstein 2026 - Freundeskreis für
-  Flüchtlinge Ahrensburg
+title: Wir sind nominiert für den Bürgerpreis Schleswig Holstein 2026
 date: 2026-11-04
 kategorie: Medien
 teaser: Am 3.11.2026 wurde in Büdelsdorf (Kreis Rendsburg-Eckernförde) der
