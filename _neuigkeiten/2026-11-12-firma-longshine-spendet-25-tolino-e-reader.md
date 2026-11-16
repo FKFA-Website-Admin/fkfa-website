@@ -3,7 +3,7 @@ title: Firma Longshine spendet 25 Tolino-E-Reader
 date: 2026-11-13
 kategorie: Medien
 teaser: Die Ahrensburger Firma Longshine spendet 25 Tolino-E-Reader.
-bild: images/uploads/fkfa_tolino_longshine_collage.jpg
+bild: images/uploads/fkfa_tolino_uebergabe.jpg
 ---
 Die Ahrensburger Firma Longshine hat dem Freundeskreis 25 Tolino-E-Reader gespendet. Die generalüberholten Geräte bekommen damit ein zweites Leben in unseren Deutschkursen.
 
